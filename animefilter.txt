@@ -1,0 +1,45 @@
+! === General Filters for MyAnimeList ===
+myanimelist.net##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
+myanimelist.net##div.spaceit_pad.po-r.js-statistics-info.di-ib[data-id="info1"]
+myanimelist.net##div.stats.anime .stat-score > .di-tc:nth-of-type(2)
+myanimelist.net##div.stars
+myanimelist.net##div.users
+myanimelist.net##span.text.anime.completed.score-label
+myanimelist.net##div.extra-info
+
+! === Hides top anime leaderboard scores ===
+myanimelist.net##.text.on.score-label.score-10
+myanimelist.net##.text.on.score-label.score-9
+myanimelist.net##.text.on.score-label.score-8
+myanimelist.net##.text.on.score-label.score-7
+myanimelist.net##.text.on.score-label.score-6
+myanimelist.net##.text.on.score-label.score-5
+myanimelist.net##.text.on.score-label.score-4
+myanimelist.net##.text.on.score-label.score-3
+myanimelist.net##.text.on.score-label.score-2
+myanimelist.net##.text.on.score-label.score-1
+
+! === Hides info in animes a studio has produced page ===
+myanimelist.net##div.stars
+myanimelist.net##div.users
+
+! === Hides Info from Searchbox ===
+myanimelist.net##div.extra-info
+
+! === AnimeWebsite filters ===
+hianime.to##.qtip-content .pre-qtip-detail
+hianime.to##.anisc-info-wrap .name
+hianime.to##div.anisc-detail div.dt-rate div.rating-result strong
+
+hianime.nz##.anisc-info-wrap .name
+hianime.nz##.qtip-content .pre-qtip-detail
+hianime.nz##div.anisc-detail div.dt-rate div.rating-result strong
+
+aniwave.to##.brating
+aniwave.to##div.bmeta > div.meta:nth-of-type(2) > div:first-of-type
+aniwave.to##.search-popup > .inner > .body > .scaff.items > a.item > .info > .meta > .dot.text-gray2
+aniwave.to##a.item > .inner > .info > .meta > .dot.score.fw-bold
+
+! === Extra Filters ===
+www.google.com##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
+kayoanime.com##.tie-popup-container > .container-wrapper
