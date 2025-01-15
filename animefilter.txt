@@ -40,6 +40,7 @@ aniwave.to##div.bmeta > div.meta:nth-of-type(2) > div:first-of-type
 aniwave.to##.search-popup > .inner > .body > .scaff.items > a.item > .info > .meta > .dot.text-gray2
 aniwave.to##a.item > .inner > .info > .meta > .dot.score.fw-bold
 
+miruro.to##p:has-text(/^Rating:/)
 ! === Extra Filters ===
 www.google.com##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
 kayoanime.com##.tie-popup-container > .container-wrapper
