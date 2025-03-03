@@ -48,3 +48,6 @@ www.miruro.tv##a.sc-FEMpB.sc-kfeOyU.hHzbDs.kxstPJ > .sc-hRDKVd.mZNhf > div:nth-o
 ! === Extra Filters ===
 www.google.com##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
 kayoanime.com##.tie-popup-container > .container-wrapper
+ask4movie.app##.f-info > .f-imdb
+ask4movie.app##.data-imdb.v2
+losmovies.se##span.item.mr-3:nth-of-type(2)
