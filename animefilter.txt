@@ -50,6 +50,7 @@ miruro.to##div.sc-jNYGOH:has(svg)
 miruro.to##.swiper-slide.swiper-slide-visible.swiper-slide-fully-visible.sc-dOUtaJ.gePvSl > .sc-bHTlQz.ijWoKU > .sc-jdabBK.fQgzkB > .sc-ktvNQe.jivIsn > .sc-eXfTSZ.tEhOs > div:nth-of-type(3)
 miruro.to##.sc-QZfq.lkeoZu
 miruro.to##.sc-gNZgCX.gQfSGZ.hide-on-mobile
+miruro.to##div.sc-fDyuxu > div > .sc-OeHys > div.sc-dWFMZf.mxVu:nth-of-type(4)
 
 ! === Extra Filters ===
 www.google.com##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
