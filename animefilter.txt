@@ -45,6 +45,12 @@ miruro.tv##div.sc-jNYGOH:has(svg)
 www.miruro.tv##.swiper-slide.swiper-slide-visible.swiper-slide-fully-visible.sc-dOUtaJ.gePvSl > .sc-bHTlQz.ijWoKU > .sc-jdabBK.fQgzkB > .sc-ktvNQe.jivIsn > .sc-eXfTSZ.ggSwKS > div:nth-of-type(3)
 www.miruro.tv##a.sc-FEMpB.sc-kfeOyU.hHzbDs.kxstPJ > .sc-hRDKVd.mZNhf > div:nth-of-type(2) > div.sc-jbAkgO.bLyKgs > div.sc-gNZgCX.gQfSGZ:nth-of-type(4)
 
+miruro.to##a[href*="averageScoreMax"]
+miruro.to##div.sc-jNYGOH:has(svg)
+miruro.to##.swiper-slide.swiper-slide-visible.swiper-slide-fully-visible.sc-dOUtaJ.gePvSl > .sc-bHTlQz.ijWoKU > .sc-jdabBK.fQgzkB > .sc-ktvNQe.jivIsn > .sc-eXfTSZ.tEhOs > div:nth-of-type(3)
+miruro.to##.sc-QZfq.lkeoZu
+miruro.to##.sc-gNZgCX.gQfSGZ.hide-on-mobile
+
 ! === Extra Filters ===
 www.google.com##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
 kayoanime.com##.tie-popup-container > .container-wrapper
