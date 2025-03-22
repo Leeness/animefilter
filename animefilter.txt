@@ -2,11 +2,15 @@
 myanimelist.net##div.spaceit_pad.po-r.js-statistics-info.di-ib:nth-of-type(24)
 myanimelist.net##div.spaceit_pad.po-r.js-statistics-info.di-ib[data-id="info1"]
 myanimelist.net##div.stats.anime .stat-score > .di-tc:nth-of-type(2)
+
+! === The following two hides info in the animes studios have produced page.
 myanimelist.net##div.stars
 myanimelist.net##div.users
+
+! === Hides info from the searchbox ===
 myanimelist.net##div.extra-info
 
-! === The following hides recently scored animes from profile page ===
+! === Hides recently scored animes from profile page ===
 myanimelist.net##span.text.anime.completed.score-label
 myanimelist.net##.text.anime.watching.score-label
 
@@ -21,13 +25,6 @@ myanimelist.net##.text.on.score-label.score-4
 myanimelist.net##.text.on.score-label.score-3
 myanimelist.net##.text.on.score-label.score-2
 myanimelist.net##.text.on.score-label.score-1
-
-! === Hides info in animes a studio has produced page ===
-myanimelist.net##div.stars
-myanimelist.net##div.users
-
-! === Hides Info from Searchbox ===
-myanimelist.net##div.extra-info
 
 ! === AnimeWebsite filters ===
 hianime.to##.qtip-content .pre-qtip-detail
